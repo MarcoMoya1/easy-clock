@@ -31,3 +31,12 @@ body {
     left: 149px;
     bottom: 149px;
 }
+
+#hours-hand {
+    position: absolute;
+    height: 80px;
+    width: 4px;
+    background-color: cornflowerblue;
+    left: 148px;
+    bottom: 148px;
+}
