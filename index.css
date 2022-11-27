@@ -21,6 +21,7 @@ body {
     background-color: rgb(0, 149, 255);
     left: 149px;
     bottom: 149px;
+    transform-origin: 0 100%;
 }
 
 #minutes-hand {
@@ -30,6 +31,7 @@ body {
     background-color: burlywood;
     left: 149px;
     bottom: 149px;
+    transform-origin: 0 100%;
 }
 
 #hours-hand {
@@ -39,4 +41,5 @@ body {
     background-color: cornflowerblue;
     left: 148px;
     bottom: 148px;
+    transform-origin: 0 100%;
 }
